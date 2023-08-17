@@ -1,0 +1,10 @@
+api key 1 : 379bf53839bd822b5f445f82f3917761
+api key 2 : b96522de5657a111071c023f93a7ea92
+
+
+
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+
+
+https://api.openweathermap.org/data/2.5/weather?q=ghaziabad&appid=379bf53839bd822b5f445f82f3917761
